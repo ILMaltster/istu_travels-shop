@@ -1,0 +1,30 @@
+.loginForm{
+    background-color: white;
+    padding: 20px;
+    max-width: 300px;
+    width: 100%;
+}
+
+.title {
+    font-size: 22px;
+    font-weight: 600;
+    margin-bottom: 8px;
+}
+
+.backBtn{
+    background: none;
+    outline: none;
+    border: 0;
+    color: #007bff;
+
+    &:hover{
+        color: rgb(0, 99, 206);
+
+
+    }
+
+}
+
+.enterBtn {
+    width: 100%;
+}

@@ -1,0 +1,1 @@
+export { TripSearch } from './TripSearch';

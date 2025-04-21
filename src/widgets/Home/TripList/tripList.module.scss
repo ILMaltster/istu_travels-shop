@@ -1,0 +1,18 @@
+.cart-number{
+    width:80px;
+}
+.card-grid{
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 10px;
+}
+
+.card-product__img{
+    overflow: hidden;
+}
+
+.card-img{
+    object-fit: cover;
+    height: 150px;
+    width: 100%;
+}
